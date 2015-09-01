@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_about"
+	android:orientation="vertical" 
+    tools:context=".ProjectsActivity" >
+
+    <ImageView
+        android:id="@+id/imageView_view"
+        android:layout_width="150dip"
+        android:layout_height="150dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="36dp"
+        android:src="@drawable/my_project" />
+ 
+
+    
+    
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="37dp"
+        android:text="Lviv BMM Studio. 2014"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+       <Button
+        android:id="@+id/button_at"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_above="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="27dp"
+        android:background="@drawable/bg_button"
+        android:text="About Program." />
+
+       <Button
+           android:id="@+id/button_rt"
+           android:layout_width="wrap_content"
+           android:layout_height="50dp"
+           android:layout_above="@+id/button_at"
+           android:layout_alignParentLeft="true"
+           android:layout_alignParentRight="true"
+           android:background="@drawable/bg_button"
+           android:text="Rate this App in Market." />
+
+</RelativeLayout>
+
+

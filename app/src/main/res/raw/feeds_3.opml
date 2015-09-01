@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.1">
+<body>
+<outline title="Gazeta.ua" type="rss" xmlUrl="http://gazeta.ua/rss" retrieveFullText='true'/>
+<outline title="BBS World UA" type="rss" xmlUrl="http://www.bbc.co.uk/ukrainian/news_in_brief/index.xml" retrieveFullText='true'/>
+	</outline>
+	<outline title="Vk UA public news" >
+		<outline title="Ukr Revolution EM" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/uarevo/wall?foreign_posts=1&big_photos=1" retrieveFullText='true'/>
+		<outline title="Патріоти України" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/club5525046/wall?foreign_posts=1&big_photos=1" retrieveFullText='true'/>
+		</outline>
+
+
+</body>
+</opml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.1">
+<body>
+	<outline title="News Ukraine" >
+		<outline title="Укр. правда" type="rss" xmlUrl="http://www.pravda.com.ua/rss/" retrieveFullText='true'> </outline>
+		<outline title="Hromadske TV" type="rss" xmlUrl="http://hromadske.tv/video/rss" retrieveFullText='true'> </outline>
+		<outline title="Espresso TV" type="rss" xmlUrl="http://feeds.feedburner.com/espreso" retrieveFullText='true'> </outline>
+		<outline title="LB.ua Политика" type="rss" xmlUrl="http://lb.ua/export/rss_news.xml" > </outline>
+		<outline title="Корреспондент UA news" type="rss" xmlUrl="http://k.img.com.ua/rss/ru/all_news2.0.xml" retrieveFullText='true'> </outline>
+		<outline title="112.ua " type="rss" xmlUrl="http://112.ua/rss/politika" retrieveFullText='true'> </outline>
+	
+	
+	<outline title="Vk UA Official Canals1" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/tsnua/wall?foreign_posts=1&big_photos=1" retrieveFullText='false'> </outline>
+	<outline title="Vk UA Official Canals2" > </outline>
+	<outline title="Vk UA Official Canals3" > </outline>
+	<outline title="Vk UA Official Canals4" > </outline>
+	<outline title="ТСН.ua" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/tsnua/wall?foreign_posts=1&big_photos=1" > </outline>
+	<outline title="Коментарии" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/commentsua/wall?foreign_posts=1&big_photos=1"> </outline>
+	<outline title="BBS UA" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/commentsua/wall?foreign_posts=1&big_photos=1" > </outline>
+	<outline title="Правий сектор"  xmlUrl="http://vkontakte-feed.appspot.com/feed/live_ukr/wall?foreign_posts=1&big_photos=1"> </outline>
+		<outline title="Чудовий Львів" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/club15207635/wall?foreign_posts=1&big_photos=1"> </outline>
+		<outline title="Новини Криму" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/krym_novosti/wall?foreign_posts=1&big_photos=1" > </outline>
+		<outline title="Євромайдан SOS" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/maidan_sos/wall?foreign_posts=1&big_photos=1" > </outline>
+
+</body>
+</opml>

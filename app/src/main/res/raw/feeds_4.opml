@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.1">
+<body>
+		<outline title="Правий сектор" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/live_ukr/wall?foreign_posts=1&big_photos=1" retrieveFullText='true'/>
+		<outline title="Чудовий Львів" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/club15207635/wall?foreign_posts=1&big_photos=1" retrieveFullText='true'/>
+		<outline title="Новини Криму" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/krym_novosti/wall?foreign_posts=1&big_photos=1" retrieveFullText='true'/>
+		<outline title="Євромайдан SOS" type="rss" xmlUrl="http://vkontakte-feed.appspot.com/feed/maidan_sos/wall?foreign_posts=1&big_photos=1" retrieveFullText='true'/>
+</outline>
+
+
+</body>
+</opml>

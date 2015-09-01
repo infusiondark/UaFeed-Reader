@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version='1.1'>
+<head>
+<title>UaFeed export</title>
+<dateCreated>1394652446740</dateCreated>
+</head>
+<body>
+	<outline title='News'>
+		<outline title='Times - World' type='rss' xmlUrl='http://rss.nytimes.com/services/xml/rss/nyt/World.xml' retrieveFullText='false'/>
+	</outline>
+	<outline title='keddr' type='rss' xmlUrl='http://keddr.com/feed' retrieveFullText='true'/>
+	<outline title='112.ua' type='rss' xmlUrl='http://112.ua/rss' retrieveFullText='false'/>
+	<outline title='lb.ua' type='rss' xmlUrl='http://lb.ua/export/rss.xml' retrieveFullText='true'/>
+	<outline title='it ' type='rss' xmlUrl='http://itc.ua/feed/' retrieveFullText='false'/>
+	<outline title='ukrpravda' type='rss' xmlUrl='http://www.pravda.com.ua/rss/' retrieveFullText='true'/>
+	<outline title='zik' type='rss' xmlUrl='http://zik.ua' retrieveFullText='false'/>
+	<outline title='4pda' type='rss' xmlUrl='http://4pda.ru/feed/' retrieveFullText='false'/>
+	<outline title='you' type='rss' xmlUrl='http://www.youhtc.ru/feed/' retrieveFullText='false'/>
+	<outline title='vienna' type='rss' xmlUrl='http://viennaos.net/rss.xml' retrieveFullText='false'/>
+</body>
+</opml>
